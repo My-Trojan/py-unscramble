@@ -16,5 +16,3 @@ def unscramble(word):
         if (word == other):
             print('Result : ' + wordlist[i])
             break
-         
-unscramble('kekak')
